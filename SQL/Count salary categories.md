@@ -49,8 +49,6 @@ Accounts table:
 
 # Solution:
 
-## SQL Solution
-
 ```sql
 SELECT 'Low Salary' as category, COUNT(*) as accounts_count
 FROM Accounts
